@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Aug 22 09:42:59 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ChartLib_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|android.jar>
+includes=
